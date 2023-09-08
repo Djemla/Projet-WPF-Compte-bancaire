@@ -1,0 +1,20 @@
+﻿Wpf_CompteBancaire2
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\
+Wpf_CompteBancaire2
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\App.xaml
+262051505296
+
+39-60755961
+1972036781094
+MainWindow.xaml;Windows Views\Each_Window_Menu_Cc\Add_Cc.xaml;Windows Views\Each_Window_Menu_Cc\Attribuer_Cc.xaml;Windows Views\Each_Window_Menu_Cc\Delete_Cc.xaml;Windows Views\Each_Window_Menu_Cc\Depot_Cc.xaml;Windows Views\Each_Window_Menu_Cc\FindById_Cc.xaml;Windows Views\Each_Window_Menu_Cc\FindById_CcClient.xaml;Windows Views\Each_Window_Menu_Cc\Retrait_Cc.xaml;Windows Views\Each_Window_Menu_Cc\Update_Cc.xaml;Windows Views\Each_Window_Menu_Cc\Virement_Cc.xaml;Windows Views\Each_Window_Menu_Ce\Add_Ce.xaml;Windows Views\Each_Window_Menu_Ce\Attribuer_Ce.xaml;Windows Views\Each_Window_Menu_Ce\Delete_Ce.xaml;Windows Views\Each_Window_Menu_Ce\Depot_Ce.xaml;Windows Views\Each_Window_Menu_Ce\FindById_Ce.xaml;Windows Views\Each_Window_Menu_Ce\FindById_CeClient.xaml;Windows Views\Each_Window_Menu_Ce\Retrait_Ce.xaml;Windows Views\Each_Window_Menu_Ce\Update_Ce.xaml;Windows Views\Each_Window_Menu_Ce\Virement_Ce.xaml;Windows Views\Each_Window_Menu_Client\Add_Client.xaml;Windows Views\Each_Window_Menu_Client\Delete_Client.xaml;Windows Views\Each_Window_Menu_Client\FindById_Client.xaml;Windows Views\Each_Window_Menu_Client\Update_Client.xaml;Windows Views\Menu_Cc_Window.xaml;Windows Views\Menu_Ce_Window.xaml;Windows Views\Menu_Client_Window.xaml;
+
+True
+

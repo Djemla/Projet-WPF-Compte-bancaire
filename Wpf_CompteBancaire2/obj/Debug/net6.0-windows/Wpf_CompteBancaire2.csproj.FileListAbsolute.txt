@@ -1,0 +1,82 @@
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Wpf_CompteBancaire2.exe
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Wpf_CompteBancaire2.deps.json
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Wpf_CompteBancaire2.runtimeconfig.json
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Wpf_CompteBancaire2.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Wpf_CompteBancaire2.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Dao_DAL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Models.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Dao_DAL.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.csproj.AssemblyReference.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Cc_Window.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Ce_Window.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Client_Window.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2_MarkupCompile.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2_MarkupCompile.lref
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Cc_Window.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Ce_Window.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Menu_Client_Window.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.g.resources
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.AssemblyInfoInputs.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.AssemblyInfo.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.csproj.CoreCompileInputs.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.csproj.CopyComplete
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\refint\Wpf_CompteBancaire2.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Wpf_CompteBancaire2.genruntimeconfig.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\ref\Wpf_CompteBancaire2.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Add_Client.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Delete_Client.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\FindById_Client.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Update_Client.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Add_Client.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Delete_Client.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\FindById_Client.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Client\Update_Client.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Add_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Attribuer_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Delete_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Depot_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\FindById_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\FindById_CcClient.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Retrait_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Update_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Virement_Cc.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Add_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Attribuer_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Delete_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Depot_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\FindById_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\FindById_CcClient.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Retrait_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Update_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Cc\Virement_Cc.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Add_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Attribuer_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Delete_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Depot_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\FindById_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\FindById_CeClient.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Retrait_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Update_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Virement_Ce.g.cs
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Add_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Attribuer_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Delete_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Depot_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\FindById_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\FindById_CeClient.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Retrait_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Update_Ce.baml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Wpf_CompteBancaire2\obj\Debug\net6.0-windows\Windows Views\Each_Window_Menu_Ce\Virement_Ce.baml

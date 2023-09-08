@@ -1,0 +1,19 @@
+﻿<Window x:Class="Wpf_CompteBancaire2.Windows_Views.Each_Window_Menu_Cc.Attribuer_Cc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_CompteBancaire2.Windows_Views.Each_Window_Menu_Cc"
+        mc:Ignorable="d"
+        Title="Attribuer_Cc" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="169,103,0,0" TextWrapping="Wrap" Text="Id Client" VerticalAlignment="Top" FontSize="14" FontFamily="Arial"/>
+        <TextBlock HorizontalAlignment="Left" Margin="169,174,0,0" TextWrapping="Wrap" Text="Numero Compte" VerticalAlignment="Top" FontSize="14" FontFamily="Arial"/>
+        <TextBlock HorizontalAlignment="Left" Margin="169,239,0,0" TextWrapping="Wrap" Text="Solde" VerticalAlignment="Top" FontSize="14" FontFamily="Arial"/>
+        <Button Content="Attribuer" Name="BtnAttribuer" Click="BtnAttribuer_Click" HorizontalAlignment="Left" Margin="524,255,0,0" VerticalAlignment="Top" TextBlock.FontSize="14" TextBlock.FontFamily="Arial"/>
+        <TextBox HorizontalAlignment="Left" Margin="354,103,0,0" TextWrapping="Wrap" Text="" Name="tbxIdClientCc" VerticalAlignment="Top" Width="120" TextBlock.FontSize="14" TextBlock.FontFamily="Arial"/>
+        <TextBox HorizontalAlignment="Left" Margin="354,172,0,0" TextWrapping="Wrap" Text="" Name="tbxNumeroCc" VerticalAlignment="Top" Width="120" TextBlock.FontSize="14" TextBlock.FontFamily="Arial"/>
+        <TextBox HorizontalAlignment="Left" Margin="354,237,0,0" TextWrapping="Wrap" Text="" Name="tbxSoldeCc" VerticalAlignment="Top" Width="120" TextBlock.FontSize="14" TextBlock.FontFamily="Arial"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,41,0,0" TextWrapping="Wrap" Text="Attribuer Compte Courant" VerticalAlignment="Top" TextBlock.FontSize="14" TextBlock.FontFamily="Arial black"/>
+    </Grid>
+</Window>

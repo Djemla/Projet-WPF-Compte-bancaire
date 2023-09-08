@@ -1,0 +1,47 @@
+﻿<Window x:Class="Wpf_CompteBancaire2.Windows_Views.Menu_Ce_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_CompteBancaire2.Windows_Views"
+        mc:Ignorable="d"
+        Title="Menu_Ce_Window" Height="450" Width="800">
+    <Grid>
+        <Grid.OpacityMask>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFC0A2A2" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.OpacityMask>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="#FFD8D88B" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="Ajout Compte Epargne" Command="{Binding ShowWindowCommandAddCe}" HorizontalAlignment="Left" Margin="39,78,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Modifier Compte Epargne" Command="{Binding ShowWindowCommandUpdateCe}" HorizontalAlignment="Left" Margin="39,132,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Supprimer Compte Epargne" Command="{Binding ShowWindowCommandDeleteCe}" HorizontalAlignment="Left" Margin="39,182,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Rechercher Compte Epargne IdCompte" Command="{Binding ShowWindowCommandGetCeById}" HorizontalAlignment="Left" Margin="293,88,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Rechercher Compte Epargne IdClient" Command="{Binding ShowWindowCommandGetCeByIdClient}" HorizontalAlignment="Left" Margin="294,138,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Attribuer Compte Epargne" Command="{Binding ShowWindowCommandAttribuerCe}" HorizontalAlignment="Left" Margin="296,192,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Depot Compte Epargne" Command="{Binding ShowWindowCommandDepotCe}" HorizontalAlignment="Left" Margin="598,92,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Retrait Compte Epargne" Command="{Binding ShowWindowCommandRetraitCe}" HorizontalAlignment="Left" Margin="594,144,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Virement Compte Epargne" Command="{Binding ShowWindowCommandVirementCe}" HorizontalAlignment="Left" Margin="590,191,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14" BorderBrush="#FFBC3232" FontWeight="Bold"/>
+        <Button Content="Actualiser" Name="BtnActualiser" Click="BtnActualiser_Click"  HorizontalAlignment="Left" Margin="691,237,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="14"/>
+
+        <DataGrid ItemsSource="{Binding ListeAllCompteEpargne}" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="95,243,0,10" Width="557" Name="gdView" Grid.ColumnSpan="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header ="Id Compte" Binding="{Binding IdCompte}" Width="5*"/>
+                <DataGridTextColumn Header ="Numero Compte" Binding="{Binding NumeroCompte}" Width="5*"/>
+                <DataGridTextColumn Header ="Solde" Binding="{Binding Solde}" Width="5*"/>
+                <DataGridTextColumn Header ="Taux d'epargne" Binding="{Binding TauxEpargne}" Width="5*"/>
+                <DataGridTextColumn Header ="Id Client" Binding="{Binding NumClient}" Width="5*"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBlock HorizontalAlignment="Left" Margin="307,36,0,0" TextWrapping="Wrap" Text="Menu Compte Epargne" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="16" Foreground="#FFDAB388"/>
+
+
+    </Grid>
+</Window>

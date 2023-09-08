@@ -1,0 +1,11 @@
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\Dao_DAL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\Dao_DAL.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\Models.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\Models.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\obj\Debug\Dao_DAL.csproj.AssemblyReference.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\obj\Debug\Dao_DAL.csproj.CoreCompileInputs.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\obj\Debug\Dao_DAL.csproj.CopyComplete
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\obj\Debug\Dao_DAL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Dao_DAL\obj\Debug\Dao_DAL.pdb

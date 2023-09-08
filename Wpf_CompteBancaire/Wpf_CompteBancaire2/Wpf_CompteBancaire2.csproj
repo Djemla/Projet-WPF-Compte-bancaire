@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cent-400248_1280.jpg" />
+    <None Remove="Windows Views\cent-400248_1280.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dao_DAL\Dao_DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cent-400248_1280.jpg" />
+    <Resource Include="Windows Views\cent-400248_1280.jpg" />
+  </ItemGroup>
+
+</Project>

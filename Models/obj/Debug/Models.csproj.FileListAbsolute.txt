@@ -1,0 +1,6 @@
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\bin\Debug\Models.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\bin\Debug\Models.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\obj\Debug\Models.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Models\obj\Debug\Models.pdb

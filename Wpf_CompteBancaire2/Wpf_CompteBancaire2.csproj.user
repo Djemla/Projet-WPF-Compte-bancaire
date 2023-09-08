@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Add_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Attribuer_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Delete_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Depot_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\FindById_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\FindById_CcClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Retrait_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Update_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Cc\Virement_Cc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Add_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Attribuer_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Delete_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Depot_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\FindById_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\FindById_CeClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Retrait_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Update_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Ce\Virement_Ce.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Client\Add_Client.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Client\Delete_Client.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Client\FindById_Client.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Each_Window_Menu_Client\Update_Client.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Menu_Cc_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Menu_Ce_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows Views\Menu_Client_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Add_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Attribuer_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Delete_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Depot_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\FindById_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\FindById_CcClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Retrait_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Update_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Cc\Virement_Cc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Add_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Attribuer_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Delete_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Depot_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\FindById_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\FindById_CeClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Retrait_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Update_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Ce\Virement_Ce.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Client\Add_Client.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Client\Delete_Client.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Client\FindById_Client.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Each_Window_Menu_Client\Update_Client.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Menu_Cc_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Menu_Ce_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows Views\Menu_Client_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

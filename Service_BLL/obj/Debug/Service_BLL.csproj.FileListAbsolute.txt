@@ -1,0 +1,13 @@
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Service_BLL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Service_BLL.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Dao_DAL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Models.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Dao_DAL.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\Models.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\obj\Debug\Service_BLL.csproj.AssemblyReference.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\obj\Debug\Service_BLL.csproj.CoreCompileInputs.cache
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\obj\Debug\Service_BLL.csproj.CopyComplete
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\obj\Debug\Service_BLL.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\obj\Debug\Service_BLL.pdb
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\proch\Desktop\Formation_DTA\Workspace_DOTNET\ADO\Wpf_CompteBancaire\Service_BLL\bin\Debug\System.Data.SqlClient.xml

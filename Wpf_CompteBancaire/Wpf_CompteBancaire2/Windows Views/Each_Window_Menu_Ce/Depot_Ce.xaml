@@ -1,0 +1,18 @@
+﻿<Window x:Class="Wpf_CompteBancaire2.Windows_Views.Each_Window_Menu_Ce.Depot_Ce"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_CompteBancaire2.Windows_Views.Each_Window_Menu_Ce"
+        mc:Ignorable="d"
+        Title="Depot_Ce" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="131,110,0,0" TextWrapping="Wrap" Text="Id Client" VerticalAlignment="Top" FontFamily="Arial" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="131,161,0,0" TextWrapping="Wrap" Text="Montant depot" VerticalAlignment="Top" FontFamily="Arial" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="377,108,0,0" TextWrapping="Wrap" Text="" Name="tbxIdClientCe" VerticalAlignment="Top" Width="120" TextBlock.FontFamily="Arial" TextBlock.FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Margin="377,161,0,0" TextWrapping="Wrap" Text="" Name="tbxMontantDepotCe" VerticalAlignment="Top" Width="120" TextBlock.FontFamily="Arial" TextBlock.FontSize="14"/>
+        <Button Content="Valider" Name="BtnValiderDepot" Click="BtnValiderDepot_Click" HorizontalAlignment="Left" Margin="578,217,0,0" VerticalAlignment="Top" TextBlock.FontFamily="Arial" TextBlock.FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,41,0,0" TextWrapping="Wrap" Text="Depot Compte Epargne" VerticalAlignment="Top" TextBlock.FontSize="14" TextBlock.FontFamily="Arial black"/>
+
+    </Grid>
+</Window>
